@@ -10,7 +10,7 @@ use Spatie\Activitylog\LogOptions;
 
 class Client extends Model
 {
-    use HasFactory, LogsActivity;
+    // use HasFactory, LogsActivity;
 
     /**
      * The attributes that are mass assignable.

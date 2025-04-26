@@ -9,7 +9,7 @@ use Spatie\Activitylog\LogOptions;
 
 class Program extends Model
 {
-    use HasFactory, LogsActivity;
+    // use HasFactory, LogsActivity;
 
     /**
      * The attributes that are mass assignable.
